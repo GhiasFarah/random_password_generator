@@ -10,7 +10,7 @@ Click the generate password button on this website to populate a random, secure 
 
 
 ## Link to deployed-app:
-https://ghiasfarah.github.io/random_password_generator/
+Check it out here - https://ghiasfarah.github.io/random_password_generator/
 
 
 
