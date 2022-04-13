@@ -10,9 +10,10 @@ Click the generate password button on this website to populate a random, secure 
 
 
 ## Link to deployed-app:
-{add link here}
+https://ghiasfarah.github.io/random_password_generator/
 
 
 
 ## Contributers:
 Farah Ghias, Jacob Carver, UC Berkeley
+
