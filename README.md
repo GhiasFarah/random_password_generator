@@ -6,7 +6,7 @@ Click the generate password button on this website to populate a random, secure 
 
 
 ## Screenshot:
-{add screenshot here}
+![image](https://user-images.githubusercontent.com/101944347/163077588-5e67cabf-d1ad-4672-9c0a-20e741eecb3a.png)
 
 
 ## Link to deployed-app:
